@@ -11,23 +11,26 @@ Das bedeutet:
 
 ---
 
-## Hinweis zur Weitergabe
+## Unterstütze die Weiterentwicklung
 
-Die Instructomat CreatorKits werden mit dem Ziel veröffentlicht, **offenes, selbstbestimmtes Lernen mit modernen Tools** zu fördern.
+Dieses CreatorKit wurde mit viel Sorgfalt erstellt und wird regelmäßig weiterentwickelt.  
+Es ist frei zugänglich, offen lizenziert – und bleibt es auch.
 
-Der Zugang zu manchen Kits erfolgt gegen eine **kleine Schutzgebühr**. Diese stellt **keine exklusive Nutzungslizenz** dar, sondern dient ausschließlich der
-- Unterstützung der Weiterentwicklung und Pflege,
-- sowie der Fokussierung auf ernsthaft interessierte Nutzer:innen.
+Wenn dir das Material hilft,  
+wenn du es in deinem Unterricht, Projekt oder Training nutzt,  
+oder wenn du einfach Danke sagen möchtest:
 
-**Unabhängig davon gelten vollständig die Bedingungen der CC BY 4.0-Lizenz.**
+**Dann freue ich mich über eine freiwillige Spende:**  
+➡️ [https://buymeacoffee.com/nocodecreators](https://buymeacoffee.com/nocodecreators)
+
+**Jeder Beitrag hilft**, die Instructomat-Reihe aktuell zu halten und neue Ideen umzusetzen.
 
 ---
 
 ## Fair Use & offene Kultur
 
-- Du darfst dieses Material auch weitergeben, bearbeiten und veröffentlichen.  
-- Bitte handle dabei **transparent, offen und respektvoll gegenüber der Quelle**.  
-- Eine freiwillige Verlinkung oder Danksagung bei Derivaten ist ausdrücklich willkommen – sie ist aber nicht verpflichtend.
+- Du darfst dieses Material auch selbst weitergeben – wir freuen uns, wenn das **konstruktiv, transparent und mit Respekt für die ursprüngliche Arbeit** geschieht.
+- Eine freiwillige Verlinkung oder Danksagung bei eigenen Projekten ist willkommen – sie ist aber nicht verpflichtend.
 
 ---
 

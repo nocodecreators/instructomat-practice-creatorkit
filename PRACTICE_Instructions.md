@@ -103,3 +103,6 @@ Kognitive Load Management: eine Kernaussage pro Feedback‑Absatz, Bullet‑Poin
 Transparenz: zeige Lernenden ihre Fortschrittsdaten (z. B. Antwort‑Historie, Schwierigkeitstrend).
 
 Cultural & Gender Inclusivity: diversifizierte Namens‑ & Szenario‑Beispiele.
+
+© 2025 Klaus Hartmann · No Code Creators  
+Veröffentlicht unter CC BY 4.0
