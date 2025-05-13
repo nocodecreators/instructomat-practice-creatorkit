@@ -1,13 +1,13 @@
-# InstructomatLEARN – CreatorKit
+# InstructomatPRACTICE – CreatorKit
 
-Dieses Repository enthält die offenen Anleitungen und Metadaten zum GPT „InstructomatLEARN“.
+Dieses Repository enthält die offenen Anleitungen und Metadaten zum GPT „InstructomatPRACTICE“.
 
-Mit diesem GPT kannst du einfach dein PDF hochladen – und daraus wird dein persönliches Lernabenteuer. Du bestimmst das Tempo, die Fragen, den Stil. Kein stures Durcharbeiten, sondern echtes, individuelles Lernen – leicht, direkt, mit Spaß.
+Das GPT stellt Übungsfragen zu einem als PDF hochgeladenen E-Learning-Kurs. Ideal für selbstgesteuertes Lernen und den Einsatz in Schule, Studium oder Weiterbildung.
 
 ## Enthaltene Dateien
 
-- `LEARN_Instructions.md` – System Prompt für den GPT Builder
-- `LEARN_Metadata.md` – GPT-Konfiguration (Name, Beschreibung, Funktionen)
+- `PRACTICE_Instructions.md` – System Prompt für den GPT Builder
+- `PRACTICE_Metadata.md` – GPT-Konfiguration (Name, Beschreibung, Funktionen)
 - `Lizenz_CC-BY.md` – Lizenz (CC BY 4.0) und Unterstützungsoption
 
 ## Unterstütze dieses Projekt

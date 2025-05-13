@@ -1,13 +1,13 @@
-# GPT Metadata – InstructomatLEARN
+# GPT Metadata – InstructomatPRACTICE
 
 ## 🔖 Name
-InstructomatLEARN
+InstructomatPRACTICE
 
 ## 📝 Beschreibung
-Mit diesem GPT kannst du einfach dein PDF hochladen – und daraus wird dein persönliches Lernabenteuer. Du bestimmst das Tempo, die Fragen, den Stil. Kein stures Durcharbeiten, sondern echtes, individuelles Lernen – leicht, direkt, mit Spaß.
+Das GPT stellt Übungsfragen zu einem als PDF hochgeladenen E-Learning-Kurs. Ideal für selbstgesteuertes Lernen und den Einsatz in Schule, Studium oder Weiterbildung.
 
 ## 💬 Gesprächsaufhänger
-Ich möchte mit dem Lernen beginnen.
+Starte mit den Übungsfragen.
 
 ## 📡 Funktionen
 Internetsuche aktiviert
